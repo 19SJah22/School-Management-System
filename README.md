@@ -1,1 +1,1 @@
-# School-Management-System
+I designed and implemented a Windows Forms application for a school management system. The application will provide functionality for managing student and teacher information, as well as handling course enrolments and grading.
